@@ -1,0 +1,25 @@
+1.	Title of Project: App for hostel wardens  
+2.	Group members:
+Div-1, Batch-S2
+1) Pradnya Haval   (111803054) 
+2) Shubhangi Khedkar (111803062)
+3.	Reason for selecting problem:
+Every day while entering in the hostel wardens need to check the college ids of students. But, sometimes it gets really difficult for them to identify the hostellers and non-hostellers. So we decided to design an app to help their task.
+
+4.	Current state of art to solve the problem:
+Hostel wardens just check the ID cards (combo card).  It is to conform that student does belong to hostel or not. 
+
+5.	Our solution:
+The app will give information about students’ name, branch, cgpa, hostel block, room number. Also, they can update the information if necessary.
+
+
+6.	Technology used:
+1) Python v3.8x
+2) Sqlite3
+3) PyQt5
+	4) CSS
+
+7.	Future Developments:
+We hope to add a feature to store records of hostel fees, monthly mess bills and give its updates to students through emails.
+
+8.	Github link :
